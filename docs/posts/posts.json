@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/2020-06-25-about-me/",
+    "title": "About Me",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Akhila Nekkanti",
+        "url": "https://github.com/akhilanekkanti1/personal-website"
+      }
+    ],
+    "date": "2020-06-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-06-25T12:16:30-07:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Akhila Nekkanti",
     "description": "Thoughts of just one brown woman among many.",
@@ -14,21 +30,5 @@
     "preview": {},
     "last_modified": "2020-06-25T12:00:25-07:00",
     "input_file": {}
-  },
-  {
-    "path": "posts/2020-06-25-about-me/",
-    "title": "About Me",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Akhila Nekkanti",
-        "url": "https://github.com/akhilanekkanti1/personal-website"
-      }
-    ],
-    "date": "2020-06-25",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-06-25T12:16:30-07:00",
-    "input_file": "about-me.utf8.md"
   }
 ]
