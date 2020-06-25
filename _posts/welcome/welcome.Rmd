@@ -1,7 +1,6 @@
 ---
-title: "Akhila Nekkanti"
-description: |
-  Thoughts of just one brown woman among many.
+title: "jottings of a brown woman"
+description:
 author:
   - name: Akhila Nekkanti
     url: https://github.com/akhilanekkanti1/personal-website
@@ -13,13 +12,7 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+hi there,
 
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
-```
-
-
+thanks for reading my blog. i made it myself.
 

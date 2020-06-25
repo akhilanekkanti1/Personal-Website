@@ -1,9 +1,11 @@
 ---
-title: "About this blog"
+title: "About akhila"
 description: |
-  Some additional details about the blog
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![Me](\Users\acer\OneDrive\personal-website\images\akhila_orange.PNG)
+
